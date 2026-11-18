@@ -1,0 +1,22 @@
+{
+  "wheel_id": 922,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-113",
+  "project": "retaining-wall-contractors-perth-cost-guide-14b43545df7aa9a602d",
+  "parent_t1_ref": "retainingwallsperthwa-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining wall contractors perth cost guide",
+  "intended_url": "https://sitesau.github.io/retainingwallsperthwa-113/",
+  "tier": "T2",
+  "writeback_nonce": "2138dcae16198af2",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-perth-58e9e1818458f5d51caa2bebba0620/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
